@@ -1,7 +1,7 @@
 # Overview
 This is a very basic game I developed using JavaScript as I a, learning how to use JavaScript
 
-[Software Demo Video](https://www.youtube.com/watch?v=9AaGsjmK4es)
+[Software Demo Video](https://www.youtube.com/watch?v=LGjkZjBgy_8)
 
 # Development Environment
 * Visual Studio Code
